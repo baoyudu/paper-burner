@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/badge/Pure-JavaScript-yellow.svg" alt="JavaScript">
 </div>
 
+非常感谢大家对本项目的喜爱。
+
+本项目保持轻量化，不再增加新功能，但可能继续维护新的API端点。如果您的需求不止于文档处理，希望在浏览器中继续体验阅读、分析等功能，欢迎大家继续关注本项目的分支 [Paper Burner X](https://github.com/Feather-2/paper-burner-x)，由 [Feather-2](https://github.com/Feather-2) 继续保持维护与更新，并包含很多令人兴奋的新特性。
+
 ## 📝 项目介绍
 
 Paper Burner是为广大研究生和研究人员设计的PDF文档处理工具。考虑到对于非母语者，直接阅读英文PDF文献不方便、效率低，而目前的全文翻译工具无法很好地处理PDF中的公式和图表，且存在段落之间断开、语意不连贯的问题，Paper Burner能够从PDF文档中提取文本（OCR），将其转换为Markdown格式，并支持使用多种AI模型进行高质量翻译，完美保留公式、图表、格式，最大限度地保持语意连贯通顺。
